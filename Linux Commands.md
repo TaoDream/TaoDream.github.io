@@ -45,6 +45,7 @@ A ls -a
 ## 排查日志
 
 Q 监听a.log的最后100行
+
 A tail -100f a.log
 
 
